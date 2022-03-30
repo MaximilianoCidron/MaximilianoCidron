@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximilianocidron&label=Profile%20views&color=0e75b6&style=flat" alt="maximilianocidron" /> </p>
 <h1 align="left">Welcome 👋</h1>
 
 ![MaximilianoCidronHello](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/Hi!%20I'm.png "MaximilianoCidron")
@@ -6,9 +7,38 @@
 ![MaximilianoCidronNokler](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/eCommerce-Nokler.png "MaximilianoCidronNokler")
 ![MaximilianoCidronSPA](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/SPA-VideogamesAPI.png "MaximilianoCidronSPA")
 
-<h3 align="center">A passionate Full Stack - Front End developer from Argentina</h3>
+<h3 align="center">A bit about me and how i like to work</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximilianocidron&label=Profile%20views&color=0e75b6&style=flat" alt="maximilianocidron" /> </p>
+Hi! I’m a Full-stack 👨🏻‍💻 front-end developer with a strong capacity to bring new and innovative ideas and great skills developing modular programming projects. I have the versatility needed for team work and I’m always willing to listen and considerate other people’s opinions. I’m always eager to grow professionally. 
+
+I graduated from the SoyHenry intensive bootcamp with more than 800 hours⌛ of classes and I also had the chance to be a Teaching Assistant👨🏻‍🏫, which help improving my soft skills and learned to manage a large group of students. This experience gave me a chance to help others deal with their projects in different ways, approach team work with a keenness to listen and take into account other voices to bring a new perspective to the work.
+
+🧠Technologies I work with:
+→HTML
+→CSS
+→Chakra UI
+→JavaScript
+→React.js
+→Redux.js
+→Node.js
+→Express
+→Sequelize
+→PostgreSQL
+→Prisma
+→Auth0
+→Stripe
+→GitHub
+→Gitflow
+
+📝Currently Learning:
+→HTML5
+→CSS3
+→TypeScript
+
+Telephone number: +54 1133959982
+WhatsApp: wa.link/00tle5
+E-mail: maximilianocidron@gmail.com
+GitHub: https://github.com/MaximilianoCidron
 
 - 🌱 I’m currently learning **→HTML5 →CSS3 →TypeScript →Auth0 →Stripe →MongoDB**
 
