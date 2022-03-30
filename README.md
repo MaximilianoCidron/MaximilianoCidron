@@ -25,7 +25,7 @@ I graduated from the SoyHenry intensive bootcamp with more than 800 hours⌛ of 
 <p align="left">WhatsApp: wa.link/00tle5</p>
 <p align="left">E-mail: maximilianocidron@gmail.com</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maximilianocidron&show_icons=true&locale=en" alt="maximilianocidron" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maximilianocidron&show_icons=true&locale=en" alt="maximilianocidron" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maximilianocidron&" alt="maximilianocidron" /></p>
 
