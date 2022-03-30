@@ -7,8 +7,6 @@
 ![MaximilianoCidronNokler](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/eCommerce-Nokler.png "MaximilianoCidronNokler")
 ![MaximilianoCidronSPA](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/SPA-VideogamesAPI.png "MaximilianoCidronSPA")
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximilianocidron&show_icons=true&locale=en&layout=compact" alt="maximilianocidron" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maximilianocidron&show_icons=true&locale=en" alt="maximilianocidron" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maximilianocidron&" alt="maximilianocidron" /></p>
