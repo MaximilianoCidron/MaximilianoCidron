@@ -1,7 +1,7 @@
 <h1 align="left">Welcome 👋</h1>
 
 ![MaximilianoCidronHello](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/Hi!%20I'm.png "MaximilianoCidron")
-![MaximilianoCidronSkills](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/Tech%20skills.png "MaximilianoCidronSkills)
+![MaximilianoCidronSkills](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/Tech%20skills.png "MaximilianoCidronSkills")
 ![MaximilianoCidronLearning](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/Currently%20Learning.png "MaximilianoCidronLearning")
 ![MaximilianoCidronNokler](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/eCommerce-Nokler.png "MaximilianoCidronNokler")
 ![MaximilianoCidronSPA](https://github.com/MaximilianoCidron/MaximilianoCidron/blob/main/SPA-VideogamesAPI.png "MaximilianoCidronSPA")
