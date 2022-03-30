@@ -11,6 +11,8 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maximilianocidron&" alt="maximilianocidron" /></p>
 
+<br>
+
 <h3 align="center">A bit about me and how i like to work</h3>
 
 Hi! I’m a Full-stack 👨🏻‍💻 front-end developer with a strong capacity to bring new and innovative ideas and great skills developing modular programming projects. I have the versatility needed for team work and I’m always willing to listen and considerate other people’s opinions. I’m always eager to grow professionally. 
