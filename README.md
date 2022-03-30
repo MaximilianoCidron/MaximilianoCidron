@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maximilianocidron&show_icons=true&locale=en" alt="maximilianocidron" /></p>
 
-<p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=maximilianocidron&" alt="maximilianocidron" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maximilianocidron&" alt="maximilianocidron" /></p>
 
 <h3 align="center">A bit about me and how i like to work</h3>
 
