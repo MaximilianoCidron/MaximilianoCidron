@@ -13,38 +13,17 @@ Hi! I’m a Full-stack 👨🏻‍💻 front-end developer with a strong capacit
 
 I graduated from the SoyHenry intensive bootcamp with more than 800 hours⌛ of classes and I also had the chance to be a Teaching Assistant👨🏻‍🏫, which help improving my soft skills and learned to manage a large group of students. This experience gave me a chance to help others deal with their projects in different ways, approach team work with a keenness to listen and take into account other voices to bring a new perspective to the work.
 
-🧠Technologies I work with:
-→HTML
-→CSS
-→Chakra UI
-→JavaScript
-→React.js
-→Redux.js
-→Node.js
-→Express
-→Sequelize
-→PostgreSQL
-→Prisma
-→Auth0
-→Stripe
-→GitHub
-→Gitflow
+- 🧠Technologies I work with: **| HTML | CSS | Chakra UI | JavaScript | React.js | Redux.js | Node.js | Express | Sequelize | PostgreSQL | Prisma | GitHub | Gitflow |**
 
-📝Currently Learning:
-→HTML5
-→CSS3
-→TypeScript
-
-Telephone number: +54 1133959982
-WhatsApp: wa.link/00tle5
-E-mail: maximilianocidron@gmail.com
-GitHub: https://github.com/MaximilianoCidron
-
-- 🌱 I’m currently learning **→HTML5 →CSS3 →TypeScript →Auth0 →Stripe →MongoDB**
+- 🌱 I’m currently learning **| HTML5 | CSS3 | TypeScript | Auth0 | Stripe | MongoDB |**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maximiliano-e-cidron-full-stack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano-e-cidron-full-stack/" height="30" width="40" /></a>
+Telephone number: +54 1133959982
+WhatsApp: wa.link/00tle5
+E-mail: maximilianocidron@gmail.com
+GitHub: https://github.com/MaximilianoCidron
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
